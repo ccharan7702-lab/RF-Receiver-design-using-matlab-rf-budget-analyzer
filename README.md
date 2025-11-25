@@ -1,0 +1,2 @@
+# RF-Receiver-design-using-matlab-rf-budget-analyzer
+Superheterodyne RF receiver model implemented in MATLAB using RF Toolbox. Assembles LNA stages, RF/IF bandpass filters, a downconverter, and a power detector. Computes and visualizes cascaded gain, noise figure, and third‑order intercept (IIP3/OIP3). Useful for front‑end performance analysis, sensitivity/linearity trade‑offs, and design iteration.
